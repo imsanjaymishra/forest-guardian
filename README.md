@@ -36,4 +36,13 @@ Sound effects — gunshots, reloads, growls, cries, hit markers, bird chirps, pa
 
 <img width="744" height="204" alt="Screenshot 2026-08-13 at 11 51 32 PM" src="https://github.com/user-attachments/assets/234cdbef-0a29-4e52-87d6-e5bddb307350" />
 
+🙏 Acknowledgements
+Three.js by Mr.doob — the JavaScript 3D library
+Web Audio API — browser-native audio synthesis
+Inspired by classic hunting and tower-defense games
 
+📜 License
+MIT License — free to use, modify, and share.
+
+Built with ❤️ using Three.js + Web Audio API
+🌳 Protect the herd. Hunt the predators. Save the forest. 🌳
